@@ -11,3 +11,9 @@ while i<10:
     i = i+1 # But if you add this loop will break at 10.
 
 print("Done")
+
+
+j = 1
+while j<=5:
+    print("Ankit " + str(j))
+    j = j+1
