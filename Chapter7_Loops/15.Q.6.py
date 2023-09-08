@@ -14,3 +14,8 @@ for i in range(5):
     print("*" * (2*i+1), end="")
     print(" " * (m-i-1))
 
+# Pattern
+
+o = 6
+for i in range(o):
+    print("*" * (o-i))
